@@ -1,3 +1,8 @@
+# 內容參與者
+question.js由@ho0527製作 @Toolspeter修訂
+@ho0527的Github:     https://github.com/ho0527
+@Toolspeter的Github: https://github.com/toolspeter
+
 # 離線學科刷題系統
 
 此專案是一個完全離線可使用的學科刷題網站，提供三種練習/測驗模式。您可以直接開啟 `index.html` 即可使用，而不需要網路連線。所有資料和圖片皆讀取自本地檔案。
