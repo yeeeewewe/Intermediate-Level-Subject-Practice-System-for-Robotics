@@ -2792,8 +2792,8 @@ let question=[
 	{
 		"question": "齒輪(gear)為傳動系統上常用的機構之一，以下哪一項對漸開線(involute)齒輪的描述為非? [題本p31-347]",
 		"questionimage": null,
-		"option": ["相較於擺線(cycloid)齒輪能具有較高的齒速比","連心距(center distance)有變動時不影響減速比","為最廣泛使用的齒形","可設計為齒條和齒輪的形式"],
-		"optionend": "rrask and pinion。",
+		"option": ["相較於擺線(cycloid)齒輪能具有較高的齒速比","連心距(center distance)有變動時不影響減速比","為最廣泛使用的齒形","可設計為齒條和齒輪的形式(rack and pinion)"],
+		"optionend": "。",
 		"answer": 0,
 		"explain": "",
 		"ps": ""
