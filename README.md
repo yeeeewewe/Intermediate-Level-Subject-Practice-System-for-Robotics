@@ -1,8 +1,7 @@
 # 內容參與者
 
-question.js由@ho0527製作 @Toolspeter修訂。
-1. @ho0527的Github:     https://github.com/ho0527
-2. @Toolspeter的Github: https://github.com/toolspeter
+question.js由[@ho0527](https://github.com/ho0527)製作 [@Toolspeter](https://github.com/toolspeter)修訂。
+
 
 # 離線學科刷題系統
 
