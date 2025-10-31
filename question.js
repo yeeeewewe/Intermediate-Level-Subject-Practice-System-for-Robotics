@@ -3344,7 +3344,7 @@ let question=[
 	},{
 		"question": "吸盤式夾爪其吸附面積及負載程度關係式為何? [題本p38-412]",
 		"questionimage": null,
-		"option": ["F-MA","F=PA","σ=Eε","τ=rc"],
+		"option": ["F=MA","F=PA","σ=Eε","τ=rc"],
 		"optionend": "。",
 		"answer": 1,
 		"explain": "",
