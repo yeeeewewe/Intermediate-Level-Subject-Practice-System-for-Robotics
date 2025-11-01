@@ -725,7 +725,7 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "無刷直流馬達一般都配備著下列哪一種感測器作為電子開關? [題本p13-91]",
+		"question": "無刷直流馬達一般都配備著下列哪一種感測器作為電子換相用? [題本p13-91]",
 		"questionimage": null,
 		"option": ["應變規","陀螺儀","電位計","霍爾感測器"],
 		"optionend": "。",
