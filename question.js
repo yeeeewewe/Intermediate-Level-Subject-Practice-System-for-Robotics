@@ -3472,7 +3472,7 @@ let question=[
 	},{
 		"question": "肘節機構一般可應用於設計機械手臂之下列何種功能? [題本p39-428]",
 		"questionimage": null,
-		"option": ["條速器","分度","旋轉","夾具"],
+		"option": ["調速器","分度","旋轉","夾具"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
