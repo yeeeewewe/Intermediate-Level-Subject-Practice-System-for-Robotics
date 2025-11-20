@@ -56,5 +56,5 @@ question.js由[@ho0527](https://github.com/ho0527)製作 [@Toolspeter](https://g
 祝您使用愉快，並祝考試順利！
 
 # 目前線上版系統
-https://yeeeewewe.github.io/Intermediate-Level-Subject-Practice-System-for-Robotics/
-## question.js會隨時進行更新，建議每次使用之前使用SHIFT+F5刷新網頁緩存
+. https://yeeeewewe.github.io/Intermediate-Level-Subject-Practice-System-for-Robotics/
+. question.js會隨時進行更新，建議每次使用之前按下鍵盤SHIFT+F5刷新網頁緩存以獲取最新題目!
