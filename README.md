@@ -58,3 +58,5 @@ question.js由[@ho0527](https://github.com/ho0527)製作 [@Toolspeter](https://g
 # 目前線上版系統
 https://yeeeewewe.github.io/Intermediate-Level-Subject-Practice-System-for-Robotics/
 ### question.js會隨時進行更新，建議每次使用之前按下鍵盤SHIFT+F5刷新網頁緩存以獲取最新題目!
+
+![GitHub QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/yeeeewewe/Intermediate-Level-Subject-Practice-System-for-Robotics)
